@@ -1,0 +1,7 @@
+PS C:\Users\Aremedis\Documents\GitHub\PasswordGenerator2> python password.py
+Given Length is too short, setting password length to 34
+('yazZ'Z#}*Lj033LqpAn:#onw2S>vl0Cb
+
+
+PS C:\Users\Aremedis\Documents\GitHub\PasswordGenerator2> python password.py 16
+>%N{/FX@LWqqTKX.
